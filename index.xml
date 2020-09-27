@@ -13,7 +13,7 @@
       <pubDate>Sun, 27 Sep 2020 16:37:01 +0200</pubDate>
       
       <guid>https://stephane303.github.io/posts/my-first-post/</guid>
-      <description>var s = &amp;#34;JavaScript syntax highlighting&amp;#34;; alert(s); git submodule add -b master https://github.com/stephane303/stephane303.github.io.git public</description>
+      <description>var s = &amp;#34;JavaScript syntax highlighting&amp;#34;; alert(s); cd ..</description>
     </item>
     
   </channel>
