@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on &lt;Coder&gt;&lt;/Coder&gt;</title>
+    <link>https://stephane303.github.io/posts/</link>
+    <description>Recent content in Posts on &lt;Coder&gt;&lt;/Coder&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Sep 2020 16:37:01 +0200</lastBuildDate><atom:link href="https://stephane303.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vue.js modal design</title>
+      <link>https://stephane303.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 27 Sep 2020 16:37:01 +0200</pubDate>
+      
+      <guid>https://stephane303.github.io/posts/my-first-post/</guid>
+      <description>var s = &amp;#34;JavaScript syntax highlighting&amp;#34;; alert(s); git submodule add -b master https://github.com/stephane303/stephane303.github.io.git public</description>
+    </item>
+    
+  </channel>
+</rss>
